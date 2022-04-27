@@ -1,0 +1,1 @@
+This is the beginning of the journey for the Random Encounter Generator laid out by Stephen
